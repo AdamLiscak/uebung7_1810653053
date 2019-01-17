@@ -47,3 +47,5 @@ public class AufgabeZwei
     }
 
 }
+/* Checked wird während der Kompilierung geprüft: z.B int i={1,2,23,3}
+uncheckede wird nicht während der Kompilierung geprüft z.B. x/0 */
